@@ -1,0 +1,13 @@
+part 1: 100	
+	-good job
+
+part 2: 100
+	-good job
+	-consider adding spaces to postfix output, makes it easier to read multi
+		character names and will make parsing part 3 easier
+
+part 3: 100
+	-good job
+
+challenge: 10
+	-good job

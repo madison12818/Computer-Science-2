@@ -1,0 +1,6 @@
+part 1: 95
+	-good job
+	-swap function should also swap the non-dynamic values (i.e. nodeType)
+
+part 2: 100
+	-good job

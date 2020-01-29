@@ -1,0 +1,31 @@
+ 12:27:58 up 66 days,  2:11, 29 users,  load average: 0.02, 0.11, 0.11
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+bkhanal  pts/0    10.14.81.143     12:19    1:18   0.19s  0.19s -bash
+whaverst pts/4    daphne.sdml.cs.k 10:31   45:26   0.09s  0.09s -bash
+whaverst pts/5    daphne.sdml.cs.k 10:31   45:34   0.63s  0.42s vim + -c set textwidth=0 -c set noai /users/kent/whaverst/Tmp/TmpTmp/aaatmpw
+lmill153 pts/14   lab214.labs.cs.k 12:04    6.00s  0.43s  0.11s sshd: lmill153 [priv]
+jmaletic pts/15   kandinsky.cs.ken Wed11   22:19m  0.30s  0.30s -bash
+adiehl10 pts/16   10.14.215.200    11:51   23:02   0.17s  0.17s -bash
+jard2    pts/17   10.14.193.175    11:52   35:20   0.03s  0.03s -bash
+lmarchan pts/18   10.11.107.30     10:14    1:54m  0.47s  0.47s -bash
+mdocker1 pts/19   10.14.222.64     12:06    6.00s  0.30s  0.13s sshd: mdocker1 [priv]
+kharri83 pts/20   10.14.216.27     12:08    6.00s  0.62s  0.62s -bash
+vdolciat pts/21   10.14.94.190     12:14    1:02   0.25s  0.25s -bash
+jstearn2 pts/22   lab213.labs.cs.k 12:14    1:18   0.21s  0.21s -bash
+kcoope24 pts/23   lab208.labs.cs.k 12:14    1:10   0.21s  0.21s -bash
+fcapan   pts/24   lab215.labs.cs.k 12:14    2:22   0.25s  0.25s -bash
+jlaguck1 pts/25   lab217.labs.cs.k 12:20   14.00s  0.16s  0.16s -bash
+crecek   pts/26   lab216.labs.cs.k 12:14    6.00s  0.37s  0.37s -bash
+dneal11  pts/27   10.14.193.36     12:14   14.00s  0.09s  0.09s -bash
+wli21    pts/28   10.14.213.216    12:15    6.00s  0.12s  0.12s -bash
+cbryan20 pts/29   lab201.labs.cs.k 12:15    1:10   0.19s  0.19s -bash
+jmorreal pts/30   lab220.labs.cs.k 12:15    6.00s  0.16s  0.16s -bash
+gtaylo25 pts/31   lab223.labs.cs.k 12:15    6.00s  0.16s  0.16s -bash
+nflower5 pts/32   lab210.labs.cs.k 12:15    1:10   0.19s  0.19s -bash
+jevans63 pts/33   lab151.labs.cs.k 12:21   46.00s  0.07s  0.07s -bash
+dditirr1 pts/34   lab209.labs.cs.k 12:15    1:02   0.10s  0.10s -bash
+taksh    pts/35   10.14.201.35     12:16   54.00s  0.19s  0.19s -bash
+dhebenth pts/36   104.129.29.244   12:22    1:02   0.14s  0.14s -bash
+ahedgpat pts/37   lab146.labs.cs.k 12:22    3:26   0.12s  0.12s -bash
+dadognra pts/38   lab149.labs.cs.k 12:23    4:14   0.61s  0.14s -bash
+joberli2 pts/39   10.14.213.52     12:24    2:54   0.12s  0.12s -bash

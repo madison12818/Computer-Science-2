@@ -1,0 +1,14 @@
+part 1: 100
+	-good job
+	-make sure all test files are added
+
+part 2: 100
+	-good job
+	-verify required test and data files are committed properly
+
+part 3: 100
+	-good job
+
+factorial: 7
+	-good job implementing the factorial function
+	-additional questions posed in the factorial assignment not answered

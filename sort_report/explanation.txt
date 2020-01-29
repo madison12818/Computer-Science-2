@@ -1,0 +1,25 @@
+//
+// explanation.txt
+//
+
+How fast does it execute overall?
+bottle sort (-bs) runs the slowest at around 30 seconds for one call.
+it works with brute force - not the most efficient
+quick sort is more efficient
+
+Which functions took the most time to execute?
+the two swap functions took a lot of the time - around 9 seconds for one and around 5 for the other. 
+
+Which functions were executed the most?
+ std::vector<int, std::allocator<int> >::operator[](unsigned long)
+
+
+ time    seconds   seconds    calls  ms/call  ms/call  name  
+ 30.46      0.07     0.07        1    70.05   200.15  bubble_sort(std::vector<int, std::allocator<int> >&)
+ 30.46      0.14     0.07 37610850     0.00     0.00  std::vector<int, std::allocator<int> >::operator[](unsigned long)
+ 13.05      0.17     0.03     5009     0.01     0.01  std::vector<int, std::allocator<int> >::size() const
+  8.70      0.19     0.02 18916275     0.00     0.00  std::remove_reference<int&>::type&& std::move<int&>(int&)
+  8.70      0.21     0.02  6305425     0.00     0.00  void std::swap<int>(int&, int&)
+  4.35      0.22     0.01 12497500     0.00     0.00  LESS_THAN(int, int)
+  4.35      0.23     0.01  6305425     0.00     0.00  SWAP(int&, int&)
+ 
